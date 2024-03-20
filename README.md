@@ -2,3 +2,9 @@
 This repository will contain LABSHEETS of data handling and data visualisation course 
 ### STUDENT NAME: VAISHNAV KRISHNA P
 ### STUDENT ROLLNO: 20221COM0040
+
+## LABSHEETS COMPLETED 
+1. LABSHEET01
+2. LABSHEET02
+3. LABSHEET03
+4. LABSHEET04
