@@ -8,3 +8,6 @@ This repository will contain LABSHEETS of data handling and data visualisation c
 2. LABSHEET02
 3. LABSHEET03
 4. LABSHEET04
+5. LABSHEET05
+6. LABSHEET06
+   
